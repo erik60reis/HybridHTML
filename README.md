@@ -15,12 +15,12 @@ A powerful compiler for Hybrid HTML that inlines components, scripts, and images
 
 ### Global Installation (Recommended)
 ```bash
-npm install -g hybrid-html-compiler
+npm install -g hybrid-html
 ```
 
 ### Local Installation
 ```bash
-npm install hybrid-html-compiler
+npm install hybrid-html
 ```
 
 ## Usage
@@ -29,10 +29,10 @@ npm install hybrid-html-compiler
 
 ```bash
 # Compile a hybrid HTML file
-hybrid compile input.hybrid.html output.html
+npx hybrid-html compile input.hybrid.html output.html
 
 # Example
-hybrid compile example/index.hybrid.html dist.html
+npx hybrid-html compile example/index.hybrid.html dist.html
 ```
 
 ### Programmatic Usage
