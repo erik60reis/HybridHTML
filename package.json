@@ -1,6 +1,6 @@
 {
   "name": "hybrid-html",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "A compiler for Hybrid HTML that inlines components, scripts, and images",
   "main": "lib/index.js",
   "bin": {
