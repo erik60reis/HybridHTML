@@ -1,0 +1,42 @@
+{
+  "name": "hybrid-html",
+  "version": "0.1",
+  "description": "A compiler for Hybrid HTML that inlines components, scripts, and images",
+  "main": "lib/index.js",
+  "bin": {
+    "hybrid": "bin/hybrid.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "mkdir -p bin lib"
+  },
+  "keywords": [
+    "html",
+    "compiler",
+    "components",
+    "hybrid",
+    "inline",
+    "build-tool"
+  ],
+  "author": "Erik Reis",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "files": [
+    "bin/",
+    "lib/",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erik60reis/hybrid-html-compiler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/erik60reis/hybrid-html-compiler/issues"
+  },
+  "homepage": "https://github.com/erik60reis/hybrid-html-compiler#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}

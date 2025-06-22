@@ -1,0 +1,4 @@
+<div>B component</div>
+<script>
+console.log('hello');
+</script>
