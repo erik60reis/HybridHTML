@@ -28,12 +28,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/erik60reis/hybrid-html.git"
+    "url": "https://github.com/erik60reis/HybridHTML.git"
   },
   "bugs": {
-    "url": "https://github.com/erik60reis/hybrid-html/issues"
+    "url": "https://github.com/erik60reis/HybridHTML/issues"
   },
-  "homepage": "https://github.com/erik60reis/hybrid-html#readme",
+  "homepage": "https://github.com/erik60reis/HybridHTML#readme",
   "dependencies": {
     "fs": "^0.0.1-security",
     "path": "^0.12.7"
